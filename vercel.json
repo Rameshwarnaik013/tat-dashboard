@@ -1,0 +1,7 @@
+{
+  "framework": null,
+  "buildCommand": "echo 'no build needed - static deployment'",
+  "installCommand": "echo 'no install needed'",
+  "outputDirectory": "web",
+  "trailingSlash": false
+}
